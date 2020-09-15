@@ -1,0 +1,12 @@
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\A4.DAL.deps.json
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\A4.DAL.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\A4.Lib.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\Common.Lib.DAL.EFCore.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\Common.Lib.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\A4.Lib.pdb
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\Common.Lib.pdb
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\bin\Debug\netstandard2.1\Common.Lib.DAL.EFCore.pdb
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\obj\Debug\netstandard2.1\A4.DAL.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\obj\Debug\netstandard2.1\A4.DAL.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\obj\Debug\netstandard2.1\A4.DAL.AssemblyInfo.cs
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\A4.DAL\obj\Debug\netstandard2.1\A4.DAL.csproj.CopyComplete

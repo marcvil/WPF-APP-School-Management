@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marc\\Desktop\\ITAcademy\\Exercicis\\Exercicis-.NET-Course\\Bloc C# y Java\\Practica Troncal\\WpfApp1\\A4.DAL\\A4.DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marc\\Desktop\\ITAcademy\\Exercicis\\Exercicis-.NET-Course\\Bloc C# y Java\\Practica Troncal\\WpfApp1\\A4.DAL\\A4.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marc\\Desktop\\ITAcademy\\Exercicis\\Exercicis-.NET-Course\\Bloc C# y Java\\Practica Troncal\\WpfApp1\\A4.DAL\\A4.DAL.csproj",
+        "projectName": "A4.DAL",
+        "projectPath": "C:\\Users\\Marc\\Desktop\\ITAcademy\\Exercicis\\Exercicis-.NET-Course\\Bloc C# y Java\\Practica Troncal\\WpfApp1\\A4.DAL\\A4.DAL.csproj",
+        "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marc\\Desktop\\ITAcademy\\Exercicis\\Exercicis-.NET-Course\\Bloc C# y Java\\Practica Troncal\\WpfApp1\\A4.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

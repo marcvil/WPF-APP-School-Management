@@ -1,0 +1,45 @@
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPF\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.Client.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPF\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPF\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPF\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPF\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPF\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfo.cs
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.deps.json
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.Client.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.Client.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfo.cs
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.csproj.CopyComplete
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\A4 WPFApp\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.pdb
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.deps.json
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.pdb
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.Client.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.Client.pdb
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfo.cs
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.csproj.CopyComplete
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.dll
+C:\Users\Marc\Desktop\ITAcademy\MaterialDesignerWPF\Pruebas\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.deps.json
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.DAL.EFCore.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.Client.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.Client.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.AssemblyInfo.cs
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.csproj.CopyComplete
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.dll
+C:\Users\Marc\Desktop\ITAcademy\Exercicis\Exercicis-.NET-Course\Bloc C# y Java\Practica Troncal\WpfApp1\Common.Lib\Common.Lib.DAL.EFCore\obj\Debug\netstandard2.0\Common.Lib.DAL.EFCore.pdb
